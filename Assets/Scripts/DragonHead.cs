@@ -19,7 +19,7 @@ public class DragonHead : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        //creats variable for object position
         Vector3 pos = transform.position;
         //changes the dragons position from world space to screen space, so that the dragons position on the screen can be checked in the if statement
         Vector2 dragonPos = Camera.main.WorldToScreenPoint(pos);
