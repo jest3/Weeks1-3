@@ -72,3 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /Assets/Scripts/FollowMouse.cs
+/Assets/Scripts/FollowMouse.cs.meta
+/Assets/Scripts/FollowMouse.cs.meta
